@@ -10,7 +10,7 @@ My own WIKI
     ```
 
 
-## [Links to Repos](./Resources/Repos.md)
+### [Links to Repos](./Resources/Repos.md)
 
 
-## [Remove Bootloader Apps from Andoid](./Resources/Android/uninstall-bootloader.md)
+### [Remove Bootloader Apps from Andoid](./Resources/Android/uninstall-bootloader.md)
